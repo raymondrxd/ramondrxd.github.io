@@ -1,0 +1,16 @@
+img{
+	margin-top: 2px;
+	text-align: center;
+}
+h1{
+	font-weight: bold;
+	font-size: 40px;
+	align-content: center;
+}
+.card-body{
+	 background-color: lightblue;
+	 display: inline-block;
+}
+body{
+	background-color: lightyellow;
+}
